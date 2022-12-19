@@ -1,3 +1,3 @@
 # lmu-cmsi-386
 
-Homework for LMU Class "Programming Languages"
+Homework for LMU "Programming Languages" Class
